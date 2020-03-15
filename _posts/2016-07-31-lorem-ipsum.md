@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Desktop publishing software
-description: Lorem Ipsum is simply dummy text
-summary: Lorem Ipsum is simply dummy text.
+title: Twitter Viewer
+description: A simple fun desktop application to search tweets and saved them.
+summary: View tweets via Twitter's API and interact with them.
 tags: [css]
 ---
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+With this simple application users can search for tweets in the search box and have the most recent 20 revelant tweets display in a list order. Users can save any of the tweets by simply clicking on the check next to the tweet under the save column. You can then view all of your save tweets by clicking on the archiver button which will pop out a second window. In addition, viewer can read the source code of any tweet by checking the pop button for the tweet and then clicking on the pop button.
 
