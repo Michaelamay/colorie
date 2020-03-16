@@ -13,3 +13,7 @@ Written: HTML, CSS, Javascript, jQuery, Bootstrap, Font Awesome
 <a href="https://michaelamay.github.io/Furnitureland/">Furnitureland</a>
 
 <!-- <img src="https://i.ibb.co/D7YvZ6m/forest.jpg" alt="forest" /> -->
+
+<img src="./images/forest.jpg" alt="forest">
+<img src="../images/forest.jpg" alt="forest">
+<img src="/images/forest.jpg" alt="forest">
