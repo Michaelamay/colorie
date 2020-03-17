@@ -3,12 +3,9 @@ layout: default
 ---
 
 <html>
-  <!-- <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
-    .mySlides {
-      display: none;
-    }
-  </style> -->
+  </style>
   <body>
     <article role="article" class="post">
       <div class="post-meta">
@@ -20,45 +17,7 @@ layout: default
 
       {{ content }}
 
-      <!-- <div class="container">
-
-        <img class="mySlides" src="../images/forest.jpg" style="width:30%">
-
-        <img class="mySlides" src="https://ibb.co/pfdx0JP" style="width:30%">
-
-        <img class="mySlides" src="/images/mountains.jpg" style="width:30%">
-
-        <img class="mySlides" src="/images/snowtops.jpg" style="width:30%">
-
-        <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
-        <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
-      </div> -->
-
-      <!-- <script>
-        var slideIndex = 1;
-        showDivs(slideIndex);
-
-        function plusDivs(n) {
-          showDivs((slideIndex += n));
-        }
-
-        function showDivs(n) {
-          var i;
-          var x = document.getElementsByClassName("mySlides");
-          if (n > x.length) {
-            slideIndex = 1;
-          }
-          if (n < 1) {
-            slideIndex = x.length;
-          }
-          for (i = 0; i < x.length; i++) {
-            x[i].style.display = "none";
-          }
-          x[slideIndex - 1].style.display = "block";
-        }
-      </script> -->
-
-      <br />
+      <br/>
 
       <p>
         Tagged {% for tag in page.tags %}
