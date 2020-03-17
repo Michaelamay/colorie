@@ -15,7 +15,7 @@ A mock website that sells furniture online. Furnitureland lists multiple items f
 
 Written: HTML, CSS, Javascript, jQuery, Bootstrap, Font Awesome
 
-<a href="https://michaelamay.github.io/Furnitureland/">Furnitureland</a>
+<a href="https://michaelamay.github.io/Furnitureland/">Visit website</a>
 
 <!-- Image section -->
 
