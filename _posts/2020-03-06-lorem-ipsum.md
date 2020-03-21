@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <p style="line-height: 1.4;">Furnitureland<br><font color="gray"><small>Website</small></font></p>
+title: Furnitureland <br>Website
 description: Lorem Ipsum is simply dummy text
 summary: A mock website that sells furniture.
 ---
