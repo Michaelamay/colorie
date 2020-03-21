@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seatly
+title: Seatly <br><font style="color:gray"><small>Online reservation website</small></font>
 description: Lorem Ipsum is simply dummy text
 summary: A web interface that allows students to check for seat availability and make reservation at John T Richardson Library DePaul.
 ---
