@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Furnitureland <br><font style="color:gray"><smallWebsite</small></font>
+title: Furnitureland <br><font style="color:gray"><small>Website</small></font>
 description: Lorem Ipsum is simply dummy text
 summary: A mock website that sells furniture.
 ---
