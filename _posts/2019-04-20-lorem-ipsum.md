@@ -18,6 +18,6 @@ Written: HTML,CSS,Javascript.
 <a href="https://michaelamay.github.io/DePaul-Library-Interface/">Visit website</a>
 
 <!-- Image section -->
-<img src="https://i.ibb.co/g3b0Bkp/select.png" alt="main-screen select">
-<img src="https://i.ibb.co/zRnyHnH/floorplan-availability.png" alt="second-feature: floor-plan">
-<img src="https://i.ibb.co/mvXryNY/reservation.png" alt="third-feature: reservation">
+<img src="https://i.ibb.co/g3b0Bkp/select.png" alt="main-screen select" border="3">
+<img src="https://i.ibb.co/zRnyHnH/floorplan-availability.png" alt="second-feature: floor-plan" border="3">
+<img src="https://i.ibb.co/mvXryNY/reservation.png" alt="third-feature: reservation" border="3">
