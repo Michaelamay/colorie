@@ -18,6 +18,6 @@ Written: HTML, CSS, Javascript, jQuery, Bootstrap, Font Awesome
 <!-- Image section -->
 <img src="https://i.ibb.co/0hRGQGP/main-screen.png" alt="main-screen" border="3">
 <img src="https://i.ibb.co/r2YGQwH/middle-column-items.png" alt="middle-column-items" border="3">
-<img src="https://i.ibb.co/r2YGQwH/middle-column-items.png" alt="middle-column-items" border="3">
+<img src="https://i.ibb.co/pjRby5B/footer.png" alt="footer" border="3">
 
 
