@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter Viewer
+title: Twitter Viewer <br><font style="color:gray"><small>Desktop application</small></font>
 description: View tweets via Twitter's API and interact with them.
 summary: A simple fun desktop application to search tweets and saved them.
 ---
