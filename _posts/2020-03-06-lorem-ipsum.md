@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Furnitureland
+title: Furnitureland 
 description: Lorem Ipsum is simply dummy text
 summary: A mock website that sells furniture.
 ---
@@ -17,7 +17,7 @@ Written: HTML, CSS, Javascript, jQuery, Bootstrap, Font Awesome
 
 <!-- Image section -->
 <img src="https://i.ibb.co/0hRGQGP/main-screen.png" alt="main-screen" border="3">
-<img src="https://i.ibb.co/r2YGQwH/middle-column-items.png" alt="middle-column-items">
-<img src="https://i.ibb.co/r2YGQwH/middle-column-items.png" alt="middle-column-items">
+<img src="https://i.ibb.co/r2YGQwH/middle-column-items.png" alt="middle-column-items" border="3">
+<img src="https://i.ibb.co/r2YGQwH/middle-column-items.png" alt="middle-column-items" border="3">
 
 
