@@ -8,8 +8,6 @@ title: Certs
     <head>
         <style>
             .box1 {    
-                /* background-color: black; */
-                /* border: 1px solid black; */
                 width: 800px;
                 height: 610px;
                 position: absolute;
@@ -17,10 +15,9 @@ title: Certs
             }
             .boxa{
                 position: relative;
-                border: 2px solid gold;
-                height: 249px;
-                width: 345px;
-                margin-right: 10px;
+                height: 250px;
+                width: 355px;
+                margin-right: 25px;
             }
             .boxb{
                 height: 273px;
@@ -34,10 +31,9 @@ title: Certs
                 width: 98%;
             }
             .littleBox{
-                border: 2px solid gold;
                 width: 350px;
                 height: 235px;
-                margin-right: 8px;   
+                margin-right: 30px;   
                 position: relative;
             }
             .outterBox{
@@ -52,18 +48,18 @@ title: Certs
     <body>
         <div class="box1">
             <div class="boxa">
-                <img class="display" src="/projects/RPA.png">
+                <img class="display" style="border:7px solid #C19A6B;" src="/projects/RPA.png">
             </div>
             <div class="boxa">
-                <img class="display" src="/projects/Udemy_webstore.png">
+                <img class="display" style="border:7px solid #C19A6B;" src="/projects/Udemy_webstore.png">
             </div>
         </div>
         <div class="outterBox">
             <div class="littleBox">
-                <img class="display" style="height:230px; width: 349px;" src="/projects/Coursera_deeplearning.png">
+                <img class="display" style="height:230px; width: 349px; border:7px solid #C19A6B;" src="/projects/Coursera_deeplearning.png">
             </div>
             <div class="littleBox">
-                <img class="display" style="height:230px; width: 350px" src="/projects/RPA_foundationTraining.png">
+                <img class="display" style="height:230px; width: 350px; border:7px solid #C19A6B;" src="/projects/RPA_foundationTraining.png">
             </div>
         </div> 
     </body>
