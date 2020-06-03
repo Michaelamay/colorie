@@ -9,7 +9,7 @@ title: About
         .box1 {
 /*            border: 1px solid gray;*/
             position: absolute;
-            height: 60px;
+            height: 100px;
             width: 450px;
             font-size: 20px;
             font-weight: 800;
@@ -54,8 +54,8 @@ title: About
         
     </div>
 -->
+    
 </body>
 
 </html>
 
-#End
