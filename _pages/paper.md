@@ -36,10 +36,14 @@ title: About
         <br>
         <span class="minor-font">June 06 2019, Tech Partnership in Urban schools, DePaul University</span>
     </div>    
-    <br>
+    
 </body>
 </html>
 
+
+
+
+<br>
 
 
 
