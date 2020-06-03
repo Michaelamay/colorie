@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-## Teaching
+<!-- ## Teaching -->
 <html>
 <head>
     <style>
@@ -29,24 +29,17 @@ title: About
     </style>
 </head>
 <body>
+    <h2>Teaching</h2>
     <hr>
     <div class="box1">
         <a href="/projects/Reflection_paper.pdf">Air Force Academy TA Reflectation </a>
         <br>
         <span class="minor-font">June 06 2019, Tech Partnership in Urban schools, DePaul University</span>
     </div>    
+    <br>
 </body>
 </html>
 
-
-
-
-
-
-
-
-
-<br>
 
 
 
