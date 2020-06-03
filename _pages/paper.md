@@ -7,7 +7,7 @@ title: About
 <head>
     <style>
         .box1 {
-            border: 1px solid gray;
+/*            border: 1px solid gray;*/
             position: absolute;
             height: 60px;
             width: 450px;
@@ -42,17 +42,7 @@ title: About
     <h2>Teaching</h2>
     <hr>
     <div class="box1">
-        <a href="/Reflection_paper.pdf">Air Force Academy TA Reflectation </a>
-        
-        <a href="/projects/Reflection_paper.pdf">
-        2nd url
-        </a>
-        
-<!--
-        <a href="/pages/Reflection_paper.pdf">
-        3rd url
-        </a>
--->
+        <a href="/projects/Reflection_paper.pdf">Air Force Academy TA Reflectation </a>
         <br>
         <span class="minor-font">June 06 2019, Tech Partnership in Urban schools, DePaul University</span>
     </div>
@@ -67,3 +57,5 @@ title: About
 </body>
 
 </html>
+
+#End
