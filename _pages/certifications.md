@@ -7,17 +7,18 @@ title: Certs
 <html>
     <head>
         <style>
-            .box1 {           
-                border: 1px solid black;
+            .box1 {    
+                /* background-color: black; */
+                /* border: 1px solid black; */
                 width: 800px;
-                height: 600px;
+                height: 610px;
                 position: absolute;
                 display: flex;       
             }
             .boxa{
                 position: relative;
                 border: 2px solid gold;
-                height: 247px;
+                height: 249px;
                 width: 345px;
                 margin-right: 10px;
             }
@@ -35,8 +36,9 @@ title: Certs
             .littleBox{
                 border: 2px solid gold;
                 width: 350px;
-                height: 230px;
-                margin-right: 8px;          
+                height: 235px;
+                margin-right: 8px;   
+                position: relative;
             }
             .outterBox{
                 height: 290px;
@@ -66,3 +68,6 @@ title: Certs
         </div> 
     </body>
 </html>
+
+<br>
+<br>
