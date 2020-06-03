@@ -9,8 +9,8 @@ title: About
         .box1 {
 /*            border: 1px solid gray;*/
             position: absolute;
-            height: 100px;
-            width: 450px;
+            height: 200px;
+/*            width: 450px;*/
             font-size: 20px;
             font-weight: 800;
 /*            background-color: skyblue;*/
