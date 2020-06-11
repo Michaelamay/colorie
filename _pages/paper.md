@@ -36,6 +36,8 @@ title: About
         <br>
         <span class="minor-font">June 06 2019, Tech Partnership in Urban schools, DePaul University</span>
         <br>
+        <br>
+        <br>
         <a href="/projects/TutoringChicago_Reflection.pdf">Tutoring Chicago Tutor Reflection </a>
         <br>
         <span class="minor-font">April 25 2019, Tepeyac, DePaul University</span>
@@ -51,7 +53,7 @@ title: About
 <br>
 <br>
 <br>
-<br>
+
 
 
 
