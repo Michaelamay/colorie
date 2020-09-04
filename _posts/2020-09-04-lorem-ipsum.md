@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chuck Norris Speaks <br><font style="color:gray"><small>E-commerce Website</small></font>
+title: Chuck Norris Speaks <br><font style="color:gray"><small>Entertainment Website</small></font>
 description: Lorem Ipsum is simply dummy text
 summary: A website which lets users interact with a button to get popular and humorous Chuck Norris Quotes.
 ---
@@ -16,7 +16,7 @@ Chuck Norris Speaks is a website in which users can click on a button to get pop
 <a href="https://michaelamay.github.io/Chuck/">Visit website</a>
 
 <!-- Image section -->
-<img src="https://ibb.co/JsgtYDM" alt="main-screen" border="3">
+<img src="https://i.ibb.co/mcgTnfM/Chuck-home.png" alt="Main front page" border="3">
 
 
 
