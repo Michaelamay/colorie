@@ -16,8 +16,9 @@ Chuck Norris Speaks is a website in which users can click on a button to get pop
 <a href="https://michaelamay.github.io/Chuck/">Visit website</a>
 
 <!-- Image section -->
-<img src="https://i.ibb.co/mcgTnfM/Chuck-home.png" alt="Main front page" border="3">
+<!--<img src="https://i.ibb.co/mcgTnfM/Chuck-home.png" alt="Main front page" border="3">-->
 
+<img src="https://i.ibb.co/mcgTnfM/Chuck-home.png" alt="Main front page">
 
 
 
